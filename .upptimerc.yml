@@ -10,8 +10,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /stuff
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /musica
+  logoUrl: https://cdn.discordapp.com/avatars/830276614222643210/facbe87ed2f9757699865b1461fb0bef.webp?size=2048
   name: Musica
   introTitle: "Musica is a Discord Music Bot."
   introMessage: This is the status page for Musica
