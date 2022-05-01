@@ -4,19 +4,19 @@
     "url": "https://fantasticdiscordbot.glitch.me",
     "icon": "https://favicons.githubusercontent.com/fantasticdiscordbot.glitch.me",
     "slug": "musica",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4186,
-    "timeDay": 12298,
-    "timeWeek": 4186,
-    "timeMonth": 4186,
-    "timeYear": 4186,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 3198,
+    "timeDay": 6267,
+    "timeWeek": 3198,
+    "timeMonth": 3198,
+    "timeYear": 3198,
     "dailyMinutesDown": {
-      "2022-05-01": 0
+      "2022-05-01": 20
     }
   }
 ]
