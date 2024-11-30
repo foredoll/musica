@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fantasticdiscordbot.glitch.me.ico",
     "slug": "musica",
     "status": "down",
-    "uptime": "14.10%",
+    "uptime": "14.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 303,
-    "timeDay": 499,
-    "timeWeek": 366,
-    "timeMonth": 376,
+    "timeDay": 256,
+    "timeWeek": 345,
+    "timeMonth": 370,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-11-29": 49,
+      "2024-11-30": 46,
+      "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
@@ -379,8 +380,7 @@
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
-      "2023-12-02": 1440,
-      "2023-12-01": 1440
+      "2023-12-02": 1440
     }
   }
 ]
